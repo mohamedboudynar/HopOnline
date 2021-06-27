@@ -13,6 +13,11 @@ export default defineComponent({
   components: {
     IonApp,
     IonRouterOutlet
+  },
+  mounted(){
+
   }
 });
 </script>
+
+
